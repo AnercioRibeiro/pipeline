@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vbdTW9gMKouyoCVnvP1e7VnLmkdDRb3eT8gTBF0dM9y7izbh1NwHTZmh22JorffViop1nTnql8OLyeBFoEZOcQ==",
+  "success": true,
+  "projectFilePath": "/Users/servidoritsbrand/Projects/pipeline/pipeline/pipeline.csproj",
+  "expectedPackageFiles": [
+    "/Users/servidoritsbrand/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
